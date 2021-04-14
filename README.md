@@ -16,7 +16,7 @@ Here, we're finding the ground state of the molecule (the natural or real state 
 
 ### A Longer Explanation:
 
-For a longer explanation - check out my blog about VQEs! I go super into the details: [Article!](https://dickson-wu.medium.com/obtaining-unobtainium-cdb1dc8a27ff)
+For a longer explanation - check out my blog about VQEs! I go super into the details: [Article!](https://dickson-wu.medium.com/obtaining-unobtainium-cdb1dc8a27ff) Also check out my [Video!](https://www.youtube.com/watch?v=tT08OWGjB0Y)
 
 ## Acknowledgements
 
